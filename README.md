@@ -26,7 +26,7 @@ Runing:
 1. open the folder `/TalkI/main/`
 2. IF NOT INSTALLED `node_modules` just type:
  ```bash
- $ npm install
+ $ npm i
  ```
 3. run app with 
  ```bash
