@@ -14,7 +14,7 @@ Make the action of asking something in a Talk may be difficult for some shy peop
 
 
 
-# Runing project (to Devs only)
+# Runing project
 We need to have installed:
 - NodeJS
 - Angular CLI
