@@ -1,5 +1,5 @@
 # Talk-I
-A Hackaton project
+A Hackathon project
 
 
 # Scope
