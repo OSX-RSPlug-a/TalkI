@@ -8,7 +8,7 @@ Make the action of asking something in a Talk may be difficult for some shy peop
 # How it works
  First you need to register with your facebook or tweeter. Once logged in, you will see the avaliable talks and all you have to do is get one. You can whatch through the streaming and ask questions, or you can read the ones that already have on the template and rate it. Be sure to only ask questions that hadn't been asked yet.
  
-![alt text](https://github.com/LucasE2996/Talk-I/blob/master/pictures/main%20app%20page.png)
+![alt text](https://github.com/OSX-RSPlug-a/TalkI/blob/master/pictures/main%20app%20page.png)
 
 **Remember: a bot will allert you if it find a default question for this talk!**
 
